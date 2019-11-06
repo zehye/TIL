@@ -1,3 +1,12 @@
+# Custom
+.DB_Store
+*.pem
+*.db
+
+hidden/
+*.java
+credentail.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
